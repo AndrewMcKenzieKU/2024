@@ -1,0 +1,693 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.1)  15 JAN 2024 18:41
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**F22-Key.tex
+(./F22-Key.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/Users/andrewmckenzie/Library/texmf/tex/latex/kiowa/Kiowa.sty
+
+LaTeX Warning: You have requested package `Kiowa',
+               but the package provides `kiowa'.
+
+Package: kiowa 2011/02/10 Andrew McKenzie's McKenzie Orthography package for Ki
+owa
+(/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count193
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tipa/tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+Now handling font encoding T3 ...
+... no UTF-8 mapping file for font encoding T3
+)))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+)
+\c@ipa=\count194
+\vwl=\skip49
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tree-dvips/tree-dvips.sty
+tree-dvips version .91 of May 16, 1995
+\nodemargin=\dimen139
+\treelinewidth=\dimen140
+\dashlength=\dimen141
+\arrowwidth=\dimen142
+\arrowlength=\dimen143
+\arrowinset=\dimen144
+\pos@t=\toks17
+\pos@b=\toks18
+\pos@l=\toks19
+\pos@r=\toks20
+\pos@tl=\toks21
+\pos@tr=\toks22
+\pos@bl=\toks23
+\pos@br=\toks24
+\@arrow=\count195
+\@tempdimc=\dimen145
+) (/Users/andrewmckenzie/Library/texmf/tex/latex/KU-semantics/KU-Semantics.sty
+Package: KU-Semantics 2013/02/04 Package for semantics courses at KU, by Andrew
+ McKenzie
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip50
+\thanksmargin=\skip51
+\droptitle=\skip52
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/Users/andrewmckenzie/Library/texmf/tex/latex/jayhawks/jayhawks.sty
+Package: jayhawks 2014/02/10 Jayhawks package, by Andrew McKenzie 
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
+)
+(/Users/andrewmckenzie/Library/texmf/tex/latex/ling-macros2/ling-macros2.sty
+Package: ling-macros2 2016/10/01 package of linguistics macros
+\bexskip=\skip53
+\bxlskip=\skip54
+\bexsep=\skip55
+\bxlsep=\skip56
+\bexindent=\skip57
+\bxlindent=\skip58
+\fexskip=\skip59
+\fxlskip=\skip60
+\bexlabel=\skip61
+\bxllabel=\skip62
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pbox/pbox.sty
+Package: pbox 2011/12/07 v1.2 Dynamic parboxes
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count196
+\calc@Bcount=\count197
+\calc@Adimen=\dimen148
+\calc@Bdimen=\dimen149
+\calc@Askip=\skip63
+\calc@Bskip=\skip64
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count198
+\calc@Cskip=\skip65
+)
+\pb@xlen=\skip66
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box50
+\UL@hyphenbox=\box51
+\UL@skip=\skip67
+\UL@hook=\toks26
+\UL@height=\dimen150
+\UL@pe=\count199
+\UL@pixel=\dimen151
+\ULC@box=\box52
+Package: ulem 2019/11/18
+\ULdepth=\dimen152
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/was/upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\prulewidth=\skip68
+\scopewidth=\skip69
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen153
+\ar@mcellbox=\box53
+\extrarowheight=\dimen154
+\NC@list=\toks27
+\extratabsurround=\skip70
+\backup@length=\skip71
+\ar@cellbox=\box54
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/qtree/qtree.sty
+Package: 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
+Package: qtree 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2020/09/30 v0.4b Improved picture commands (HjG,RN,JT)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 112.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 114.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pict2e/p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks28
+\@arclen=\dimen155
+\@arcrad=\dimen156
+\pIIe@tempdima=\dimen157
+\pIIe@tempdimb=\dimen158
+\pIIe@tempdimc=\dimen159
+\pIIe@tempdimd=\dimen160
+\pIIe@tempdime=\dimen161
+\pIIe@tempdimf=\dimen162
+)
+\c@treecount=\count266
+\c@branchcount=\count267
+\parentbox=\box55
+\treebox=\box56
+\treeboxone=\box57
+\treeboxtwo=\box58
+\treeboxthree=\box59
+\treeboxfour=\box60
+\treeboxfive=\box61
+\treeboxsix=\box62
+\treeboxseven=\box63
+\treeboxeight=\box64
+\treeboxnine=\box65
+\treeboxten=\box66
+\treeboxeleven=\box67
+\treeboxtwelve=\box68
+\treeboxthirteen=\box69
+\treeboxfourteen=\box70
+\treeboxfifteen=\box71
+\treeboxsixteen=\box72
+\treeboxseventeen=\box73
+\treeboxeighteen=\box74
+\treeboxnineteen=\box75
+\treeboxtwenty=\box76
+\treeoffsetone=\skip72
+\treeoffsettwo=\skip73
+\treeoffsetthree=\skip74
+\treeoffsetfour=\skip75
+\treeoffsetfive=\skip76
+\treeoffsetsix=\skip77
+\treeoffsetseven=\skip78
+\treeoffseteight=\skip79
+\treeoffsetnine=\skip80
+\treeoffsetten=\skip81
+\treeoffseteleven=\skip82
+\treeoffsettwelve=\skip83
+\treeoffsetthirteen=\skip84
+\treeoffsetfourteen=\skip85
+\treeoffsetfifteen=\skip86
+\treeoffsetsixteen=\skip87
+\treeoffsetseventeen=\skip88
+\treeoffseteighteen=\skip89
+\treeoffsetnineteen=\skip90
+\treeoffsettwenty=\skip91
+\treeshiftone=\skip92
+\treeshifttwo=\skip93
+\treeshiftthree=\skip94
+\treeshiftfour=\skip95
+\treeshiftfive=\skip96
+\treeshiftsix=\skip97
+\treeshiftseven=\skip98
+\treeshifteight=\skip99
+\treeshiftnine=\skip100
+\treeshiftten=\skip101
+\treeshifteleven=\skip102
+\treeshifttwelve=\skip103
+\treeshiftthirteen=\skip104
+\treeshiftfourteen=\skip105
+\treeshiftfifteen=\skip106
+\treeshiftsixteen=\skip107
+\treeshiftseventeen=\skip108
+\treeshifteighteen=\skip109
+\treeshiftnineteen=\skip110
+\treeshifttwenty=\skip111
+\treewidthone=\skip112
+\treewidthtwo=\skip113
+\treewidththree=\skip114
+\treewidthfour=\skip115
+\treewidthfive=\skip116
+\treewidthsix=\skip117
+\treewidthseven=\skip118
+\treewidtheight=\skip119
+\treewidthnine=\skip120
+\treewidthten=\skip121
+\treewidtheleven=\skip122
+\treewidthtwelve=\skip123
+\treewidththirteen=\skip124
+\treewidthfourteen=\skip125
+\treewidthfifteen=\skip126
+\treewidthsixteen=\skip127
+\treewidthseventeen=\skip128
+\treewidtheighteen=\skip129
+\treewidthnineteen=\skip130
+\treewidthtwenty=\skip131
+\daughteroffsetone=\skip132
+\daughteroffsettwo=\skip133
+\daughteroffsetthree=\skip134
+\daughteroffsetfour=\skip135
+\branchwidthone=\skip136
+\branchwidthtwo=\skip137
+\branchwidththree=\skip138
+\branchwidthfour=\skip139
+\parentoffset=\skip140
+\treeoffset=\skip141
+\daughteroffset=\skip142
+\branchwidth=\skip143
+\parentwidth=\skip144
+\treewidth=\skip145
+\qta=\toks29
+\qtb=\toks30
+\nbranches=\count268
+\qroofx=\count269
+\qroofy=\count270
+\@qrscratchbox=\box77
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count271
+\mult@box=\box78
+\multicol@leftmargin=\dimen163
+\c@unbalance=\count272
+\c@collectmore=\count273
+\doublecol@number=\count274
+\multicoltolerance=\count275
+\multicolpretolerance=\count276
+\full@width=\dimen164
+\page@free=\dimen165
+\premulticols=\dimen166
+\postmulticols=\dimen167
+\multicolsep=\skip146
+\multicolbaselineskip=\skip147
+\partial@page=\box79
+\last@line=\box80
+\maxbalancingoverflow=\dimen168
+\mult@rightbox=\box81
+\mult@grightbox=\box82
+\mult@firstbox=\box83
+\mult@gfirstbox=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\c@minrows=\count277
+\c@columnbadness=\count278
+\c@finalcolumnbadness=\count279
+\last@try=\dimen169
+\multicolovershoot=\dimen170
+\multicolundershoot=\dimen171
+\mult@nat@firstbox=\box121
+\colbreak@box=\box122
+\mc@col@check@num=\count280
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/palatino.sty
+Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+\c@question=\count281
+\blanklength=\skip148
+\treespotwidth=\skip149
+\holelength=\skip150
+\holeheight=\skip151
+)
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 7
+.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count282
+\l__pdf_internal_box=\box123
+)
+(./F22-Key.aux)
+\openout1 = `F22-Key.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 7.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 7.
+
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 7.
+
+(/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count283
+\scratchdimen=\dimen172
+\scratchbox=\box124
+\nofMPsegments=\count284
+\nofMParguments=\count285
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count286
+\MPscratchDim=\dimen173
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
+\everyMPtoPDFconversion=\toks32
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (/usr/local/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 8
+.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+Overfull \hbox (1.9646pt too wide) in paragraph at lines 18--19
+[]\OT1/ppl/m/n/10 c = $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+\OT1/ppl/m/n/10 (The empty as-sign-
+ []
+
+
+Overfull \hbox (6.12447pt too wide) in paragraph at lines 22--23
+[]$\U/msb/m/n/10 ?$ \OT1/ppl/m/n/10 = [] 
+ []
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 35.
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 41.
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 41.
+
+
+Overfull \hbox (53.90001pt too wide) in paragraph at lines 35--42
+[][][][][][][] [][][][][][] 
+ []
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 46.
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 54.
+
+
+Overfull \hbox (51.40001pt too wide) in paragraph at lines 46--55
+[][][][][][][] [][][][][][] 
+ []
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 65.
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 73.
+
+
+Overfull \hbox (53.90001pt too wide) in paragraph at lines 65--74
+[][][][][][][] [][][][][][] 
+ []
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 82.
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 82.
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 90.
+
+
+Overfull \hbox (51.40001pt too wide) in paragraph at lines 82--91
+[][][][][][][] [][][][][][] 
+ []
+
+[1
+
+
+Non-PDF special ignored!
+<special> header=tree-dvips91.pro
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 101.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 109.
+
+
+
+Overfull \hbox (53.90001pt too wide) in paragraph at lines 101--110
+[][][][][][][] [][][][][][] 
+ []
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 117.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 117.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 117.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 117.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 125.
+
+
+
+Overfull \hbox (51.40001pt too wide) in paragraph at lines 117--126
+[][][][][][][] [][][][][][] 
+ []
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 137.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 137.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 145.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 145.
+
+
+
+Overfull \hbox (53.90001pt too wide) in paragraph at lines 137--146
+[][][][][][][] [][][][][][] 
+ []
+
+[2] (./F22-Key.aux) ) 
+Here is how much of TeX's memory you used:
+ 6196 strings out of 478268
+ 91512 string characters out of 5846348
+ 396431 words of memory out of 5000000
+ 24261 multiletter control sequences out of 15000+600000
+ 487183 words of font info for 85 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 70i,14n,81p,592b,253s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8
+r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10
+.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pf
+b></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.
+pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></u
+sr/local/texlive/2022/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on F22-Key.pdf (2 pages, 76132 bytes).
+PDF statistics:
+ 47 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

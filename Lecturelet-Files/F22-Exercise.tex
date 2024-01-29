@@ -1,0 +1,177 @@
+\documentclass{article}
+\usepackage{Kiowa}
+\usepackage{tree-dvips}
+\usepackage[online, work]{KU-Semantics}
+ \title{F22-Exercise}
+\begin{document}
+\maketitle
+\newcommand{\amod}[2]{\ensuremath{^{\scriptsize \textrm{#1} \to \textrm{#2}}}}
+\newcommand{\grayans}[1]{\textcolor{gray!05!white}{#1}}	
+Rewrite the following assignment functions to fit the following modifications.
+
+\begin{multicols}{3}
+a  = \fleft \func{1}{Sam} \func{2}{Diane} \func{3}{Cliff} \func{4}{Norm} \fright
+
+b  = \fleft \func{1}{Lorelai} \func{2}{Rory} \func{3}{Sookie} \func{4}{Luke} \fright
+
+c  = \fleft \func{1}{Meera} \func{2}{Jeyne} \func{3}{Missandrei} \func{4}{Lollys} \fright
+
+d  = \fleft \func{1}{Emma} \func{2}{Charles} \func{3}{Rodolphe} \func{4}{L\'eon} \fright
+
+$\varnothing$ =  \parbox[t]{1.5in}{~\\ ~ \\ ~ \\  (The empty assignment. It has an empty domain, so the function doesn't map anything to anything)}
+\end{multicols}
+
+\hrule
+
+\newcommand{\boxxx}{
+\begin{minipage}[t][1.5in][t]{.5\textwidth}				%%% Hide answers
+
+\question }
+ 
+ {\colorbox{gray!05!white}{\boxxx a\amod{2}{Rebecca}  =  
+ 
+ \centering \vspace{12pt} \fleft \func{1}{Sam} \func{2}{Rebecca} \func{3}{Cliff} \func{4}{Norm} \fright  
+\end{minipage}
+}}
+%
+\colorbox{white}{\boxxx a\amod{1}{Diane, }\amod{2}{Sam} =  
+
+ \centering \vspace{12pt}   \fleft \func{1}{Diane} \func{2}{Sam} \func{3}{Cliff} \func{4}{Norm} \fright  
+\end{minipage}
+}
+
+ {\colorbox{white}{\boxxx b\amod{5}{Paris} =   
+ 
+  \centering \vspace{12pt}   \fleft \func{1}{Lorelai} \func{2}{Rory} \func{3}{Sookie} \func{4}{Luke} \func{5}{Paris} \fright
+\end{minipage}}
+}%
+\colorbox{gray!05!white}{\boxxx  c\amod{3}{Nymeria} = 
+\renewcommand{\ans}[1]{\textcolor{gray!05!white}{#1}}	
+
+  \centering \vspace{12pt}   \ans{% 
+  		\fleft \func{1}{Meera} \func{2}{Jeyne} \func{3}{Nymeria} \func{4}{Lollys} \fright%
+			}
+\end{minipage}
+}
+
+ 
+ % row 3
+ {\colorbox{gray!05!white}{\boxxx d\amod{5}{Berthe}  =  
+ 
+ \renewcommand{\ans}[1]{\textcolor{gray!05!white}{#1}}	
+ \centering \vspace{12pt} \ans{%
+ 		 \fleft \func{1}{Emma} \func{2}{Charles} \func{3}{Rodolphe} \func{4}{L\'eon} \func{5}{Berthe} \fright%
+		 	}%
+			
+\end{minipage}
+}}
+%
+\colorbox{white}{\boxxx a\amod{1}{x}  
+
+ \centering \vspace{12pt}  \ans{%
+ 	 \fleft \func{1}{x} \func{2}{Diane} \func{3}{Cliff} \func{4}{Norm} \fright  %
+	 }
+\end{minipage}
+}
+
+
+% row 4
+ {\colorbox{white}{\boxxx $\varnothing$\amod{1}{Doyle, }\amod{2}{Paris} =   
+ 
+  \centering \vspace{12pt}  \ans{%
+  	  \fleft \func{1}{Doyle} \func{2}{Paris} \fright%
+	  }
+\end{minipage}}
+}%
+\colorbox{gray!05!white}{\boxxx  $\varnothing$\amod{1}{Orange} = 
+
+\renewcommand{\ans}[1]{\textcolor{gray!05!white}{#1}}	
+  \centering \vspace{12pt}   \ans{% 
+  		\fleft \func{1}{Orange} \fright%
+			}
+\end{minipage}
+}
+
+ 
+ %row 5
+ {\colorbox{gray!05!white}{\boxxx b\amod{1}{x}  =  
+ \renewcommand{\ans}[1]{\textcolor{gray!05!white}{#1}}	
+ 
+ \centering \vspace{12pt} \ans{%
+ 		 \fleft \func{1}{x} \func{2}{Rory} \func{3}{Sookie} \func{4}{Luke}  \fright%
+		 	}%
+			
+\end{minipage}
+}}
+%
+\colorbox{white}{\boxxx a\amod{1}{x}  
+
+ \centering \vspace{12pt}  \ans{%
+ 	 \fleft \func{1}{x} \func{2}{Diane} \func{3}{Cliff} \func{4}{Norm} \fright  %
+	 }
+\end{minipage}
+}
+
+% row 6
+ {\colorbox{white}{\boxxx d\amod{1}{e, }\amod{2}{c, }\amod{3}{r, }\amod{4}{l} =   
+ 
+  \centering \vspace{12pt}  \ans{%
+  	  \fleft \func{1}{e} \func{2}{c} \func{3}{r} \func{4}{l} \fright%
+	  }
+\end{minipage}}
+}%
+\colorbox{gray!05!white}{\boxxx  c\amod{3}{Osha} = 
+
+\renewcommand{\ans}[1]{\textcolor{gray!05!white}{#1}}	
+  \centering \vspace{12pt}   \ans{% 
+  		\fleft \func{1}{Meera} \func{2}{Jeyne} \func{3}{Osha} \func{4}{Lollys} \fright%
+			}
+\end{minipage}
+}
+
+ %row 7
+ {\colorbox{gray!05!white}{\boxxx b\amod{[1}{x]\amod{2}{z}
+}  =  
+
+\renewcommand{\ans}[1]{\textcolor{gray!05!white}{#1}}	
+ 
+ \centering \vspace{12pt} \ans{%
+ 		 \fleft \func{1}{x} \func{2}{z} \func{3}{Sookie} \func{4}{Luke}  \fright%
+		 	}%
+
+\vfill \small This one involves modifying an assignment  \\ that's already been modified!
+\end{minipage}
+}}
+%
+\colorbox{white}{\boxxx d\amod{[4}{Justin]\amod{4}{Lheureux}}  
+
+ \centering \vspace{12pt}  \ans{%
+ 	\fleft \func{1}{Emma} \func{2}{Charles} \func{3}{Rodolphe} \func{4}{Lheureux} \fright %
+	 }
+\end{minipage}
+}
+
+
+%\ben
+%\item 
+%
+%
+%\item 
+%
+%\item
+%
+%\item
+%
+%\item
+%
+%\item
+%
+%\item
+%
+%\item
+%
+%\item c\amod{1}{x, }\amod{2}{y, }\amod{3}{m} = \ans{\fleft \func{1}{x} \func{2}{y} \func{3}{m} \func{4}{Lollys} \fright}
+%\fen
+ 
+\end{document}
+
