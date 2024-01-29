@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<!--<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+</body>
+</html>
+//-->
+
+<!-- HTML File for Wherewhatis page  
+ 	  Andrew McKenzie's academic portal 
+	    http://people.ku.edu/~a326m085/
+	    This shows where what is on the index.
+last update: May 2021 
+ 
+ //-->
+
+
+<!-- list of linked-to documents 
+% Documents/TILA-Kiowa-Draft-Segments.pdf 
+ %Documents/McKenzie-Two-types-of-habituals-handout.pdf
+ %Documents/McKenzie-Two-types-of-habituals-proceedings-preprint.pdf
+ %Documents/McKenzie-Duran-Prosody-Kiowa-abstract.pdf
+Documents/Deriving Topic Effects.pdf
+ %Documents/McKenzie-limited-evidentials-preprint.pdf
+ %Documents/2019-ESA-Interstellar-BG.pdf
+ Documents/Liu-McKenzie-Sutkin-preprint.pdf
+  %Documents/McKenzie-DeixisOR-0310-Final.pdf
+% Documents/WCCFL-39-McKenzie-slides.pdf
+% Documents/WCCFL-39-McKenzie-handout.pdf
+%% Documents/McKenzie-SULA10-Proceeding.pdf
+ %Documents/Documents/McKenzie-SR-OxfordBib-preprint.pdf
+% Documents/Documents/McKenzie-Survey-SR-NA-preprint.pdf
+ %Documents/McKenzie-SR-and-EC-preprint.pdf
+ Documents/Documents/McKenzie-SR-and-situations.pdf
+ %Documents/McKenzie-limited-evidentials.pdf
+ Documents/107-19-FA-Syllabus.pdf
+ Documents/NAILS-FA20-Syllabus-Oct2.pdf
+ Documents/331-18-SP-Syllabus.pdf
+ %Documents/McKenzie-Andrew-CV-mostrecent.pdf
+//-->
+
+<!DOCTYPE html>
+
+
+
+
+<html style="var b = document.documentElement;
+b.setAttribute('data-useragent', navigator.userAgent);
+b.setAttribute('data-platform', navigator.platform );"
+>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="UTF-8">
+<meta name="description" content="Andrew McKenzie's academic website">
+<meta name="keywords" content="semantics, Kiowa language, switch-reference, noun incorporation, Kansas">
+<meta name="author" content="Andrew McKenzie">
+	<title> Andrew McKenzie | KU Linguistics </title>
+
+	<!--	 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">  -->
+	<link  href="mockup-2018.css" rel="stylesheet" type="text/css" media="screen">
+
+	 	  
+	
+	
+<!--<meta name="viewport" content="width=device-width, initial-scale=1"> <!--w3 thing-->	
+
+<script>			<!--- javascript that gets IE to see the structural tags --->
+  document.createElement('header');
+  document.createElement('footer');
+  document.createElement('section');
+  document.createElement('aside');
+  document.createElement('nav');
+  document.createElement('article');
+</script>
+	
+</head>
+
+
+
+
+
+
+
+
+
+
+
+<body>
+
+    <div id = "face">       <!-- the left box, with my name and picture --> 
+  <h1 style = "color: #black;">Andrew McKenzie </h1>
+					<h3 style = "color:slategray; font-family: Times New Roman;">[ˈændʒɹu mɨˈkʰɛnzi]  </h3>
+    	<p>	 <span>Associate Professor of Linguistics</span> <br>
+			Director of Graduate Studies (Linguistics)<br>
+		 Affiliate Professor in Indigenous Studies<br>
+		 <a style = "font-size: 11pt;" href = "http://www.ku.edu">University of Kansas</a> |
+          <a style = "font-size: 11pt;" href = "http://www.ku.edu">KU Linguistics</a>
+		</p>
+          
+      <p><!-- style = "margin-left: 40px; width: 250px; z-level: 50;">//-->
+		  Specializing in formal semantics and theory-driven language documentation.  <br><br> Focus on Native American languages, especially Kiowa.   </p>
+ 
+	 	<!--<p> <img class = "profile" alt = "me at my desk, 2017. Credit: Miranda Anaya, University Daily Kansan" src = "kansan-miranda-anaya-clip.jpg"> //-->
+		<p> <img class = "profile" alt = "official portrait, 2021" src = "crop-McKenzie-print-2021.jpg"> 
+		</p>
+        
+   <!--     <div id = "find"> -->
+ <!--<span class = "box">Find me</span> -->
+ 
+ 
+ 
+  <p style= "background-color: #dde5ed; width:250px; color: #222; position:relative; top:-87px;  opacity:0.7; text-align: left; margin-left: 20px; padding-left: 10px;  padding-top: 10px; -moz-border-radius: 8px;
+-webkit-border-radius: 8px; "> <!--<span class = "emph">Office: </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> 
+ 	<span class = "emph">Office Hrs:</span>on sabbatical    <br>
+//-->
+	 <span class = "emph">E-mail:&nbsp;&nbsp;&nbsp; </span> <a href="mailto:andrew.mckenzie@ku.edu" style = "font-size: 9pt;">&nbsp;&nbsp;&nbsp; andrew.mckenzie@ku.edu&nbsp;&nbsp;&nbsp;</a><br>
+	 
+ </p>
+ 
+ <!-- <p style = "text-align: left; padding-left: 60px;">Andrew McKenzie <br>
+ 	University of Kansas <br>
+	Department of Linguistics<br>
+	1541 Lilac Lane <br>
+	Blake Hall, Room 427 <br>
+	Lawrence, KS 66045
+</p>
+ //-->
+  
+ </div> <!--end face  -->
+        
+ <!--   </div>-->
+
+ 
+
+<script><!-- for the accordion effect-->
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var panel = this.nextElementSibling;
+        if (panel.style.display === "block") {
+            panel.style.display = "none";
+        } else {
+            panel.style.display = "block";
+        }
+    });
+}
+</script>
+  
+  
+
+
+<div id = "news" style = "height:287px;">
+<span class = "box">News</span> (click for details)&nbsp;
+	
+	 <button class="accordion"> <br>Book contract!<br></button>
+ <div class="panel">
+ <p>I have signed a book contract with Oxford University Press, to publish my Semantic Reference Grammar of Kiowa, sometime in 2024. Now all I have to do is finish writing it... </p>
+  </div>
+	
+	 <button class="accordion"> <br>Invited plenary at WSCLA 2023<br></button>
+ <div class="panel">
+ <p>In April 2023, I just delivered a plenary talk at <a target = "_blank" href = "https://wscla2023.mull-lab.org">WSCLA 2023</a>, the Workshop on Structure and Constituency in Languages of the Americas, which despite the name is a conference. It took place at McGill in Montreal.    </p>
+  </div>
+	
+	<button class="accordion"> <br> Five-Minute Linguist runner-up! <br></button>
+ <div class="panel">
+ <p>At the 2023 LSA meeting, my presentation with Drs. Sutkin, Bachar, and Mahadev won runner-up in the LSA's Five-Minute Linguist contest. Sadly, the video has a one-year embargo for contractual reasons only the LSA could explain. The slides are available, at least, to the left. </p>
+  </div>
+	
+	 <button class="accordion"> <br>Invited plenary at WECOL<br></button>
+ <div class="panel">
+ <p>In November 2022, I delivered a plenary talk at the <a target = "_blank" href = "https://wecol.weebly.com">Western Conference on Linguistics</a>, hosted by Fresno State.  </p>
+  </div>
+	
+		<button class="accordion"> <br> Director of Graduate Studies <br></button>
+ <div class="panel">
+ <p>In fall 2022 I started a term as the Director of Graduate Studies for the Linguistics Department at KU.</p>
+  </div>
+	
+	<button class="accordion"> <br> Book released! <br></button>
+ <div class="panel">
+ <p>My work with Daniel Harbour and Laurel J. Watkins is now published: <i>Plains Life in Kiowa: Voices from a Tribe in Transition</i> is a new volume published in the Texts in Indigenous Languages of the Americass series by IJAL.</p>
+  </div>
+	
+<!--	 <button class="accordion"> <br> 'Going' to WSCLA 25<br></button>
+ <div class="panel">
+ <p>My work with student Romina Durán has been accepted at the Workshop on Structure and Constituency of the Languages of the Americas.  Our talk takes the first look at sentence-level prosody in Kiowa, and will be given on zoom on May 28. </p>
+  </div> 
+//-->
+	
+	 
+	
+	<div id ="oldnews">
+		
+	
+	 <button class="accordion"> <br>Feature in <i>Slate</i> magazine!<br></button>
+ <div class="panel">
+ <p>My paper on language in space has been featured in an article in <a target = "_blank" href = "https://slate.com/technology/2020/08/interstellar-travel-language-change-linguistic-evolution.html"><i>Slate</i>.</a></p>
+  </div>
+	
+	
+	
+	
+		 <button class="accordion"> <br>Invited plenary at WCCFL 39<br></button>
+ <div class="panel">
+ <p>In April 2021, I delivered a plenary talk at the 39th West Coast Conference on Formal Linguistics. You can watch the presentation <a target ="_blank" href = "https://www.youtube.com/watch?v=PK0cpk2bRR4&t=3s">on YouTube</a>.</p>
+		</div>
+		
+<!--	 <button class="accordion">  Berkeley Syntax-Semantics Circle<br></button>
+ <div class="panel">
+ <p>I will be presenting to the SSC at Berkeley in February. </p>
+  </div>
+
+		
+		 <button class="accordion"> Indiana guest lecture<br></button>
+ <div class="panel">
+ <p>I have recently guest lectured about Kiowa grammar in the Languages of the World course at Indiana University. Thanks to Kelly Berkson for inviting me.</p>
+  </div>
+	 //-->	
+
+	 <button class= "accordion">  In 'print': Language in space<br></button>
+ <div class="panel">
+ <p>Me and Jeff Punske's paper on language development during interstellar travel has piqued quite a bit of interest among writers. 
+	 <a target = "_blank" href = "http://news.ku.edu/2020/06/30/without-care-lost-space-could-mean-lost-translation">KU Press Release</a> <br> 
+	 <a target = "_blank" href = "https://slate.com/technology/2020/08/interstellar-travel-language-change-linguistic-evolution.html"><i>Slate</i></a> - 
+	  <a target = "_blank" href = "https://learningenglish.voanews.com/a/how-future-space-travel-could-create-language-communication-issues/5505936.html"><i>Voice of America</i></a> - 
+	 <a target = "_blank" href = "https://www.space.com/interstellar-space-travel-language-complications.html"><i>space.com</i></a> - 
+	  <a target = "_blank" href = "https://bigthink.com/surprising-science/space-travel-could-create-language-unintelligible-to-people-on-earth"><i>Big Think</i></a> -
+	 <a target = "_blank" href = "https://www.universetoday.com/146889/languages-will-change-significantly-on-interstellar-flights/"><i>Universe Today</i></a> - 
+	 <a target = "_blank" href = "https://www.advancedsciencenews.com/what-happens-to-language-during-interstellar-travel/"><i>Advanced Science News</i></a> - 
+	 </p>
+  </div>  
+	
+	 <button class="accordion">  on radio: Language in space <br></button>
+ <div class="panel">
+ <p>Listen to <a target = "blank" href="https://www.kcur.org/2020-07-20/kansas-schools-reopening-how-masks-protect-us-language-space-travel">my radio interview</a> on KCUR's <i>Up To Date</i> in March 2020. It got cut short because of COVID-related news before it, but it was still fun and informative! </p>
+  </div>
+	
+	 <button class="accordion"> JP to Rutgers  <br></button>
+ <div class="panel">
+ <p>My M.A. advisee John-Patrick Doherty has begun the next step of his research career in the Rutgers PhD program, where he will pursue his program on syntax of West African languages in an ideal environment. Best of luck, JP! </p>
+  </div>
+	
+	 <button class="accordion"> Colloquium at Arizona<br></button>
+ <div class="panel">
+ <p>I will be giving a colloquium talk at Arizona on Nov 8, 2019!</p>
+  </div>
+
+		 <button class="accordion"> ESTEC talk<br></button>
+ <div class="panel">
+ <p>Jeff Punske and I will be presenting our work on language development in space travel, at the ESA's ESTEC conference in Noorwijk, the Netherlands!</p>
+  </div>
+		
+<button class="accordion">  Podcast: The final frontier  <br></button>
+ <div class="panel">
+	 <p>I have recently appeared on the <a href = "https://vocalfriespod.fireside.fm/49">Vocal Fries</a> podcast, talking about the interstellar travel project. I will soon appear on that podcast talking about my semantic grammar of Kiowa.</p>
+  </div>
+	
+ <button class="accordion">  Colloquium at Southern Illinois<br></button>
+ <div class="panel">
+ <p>I will be giving a colloquium talk at Southern Illinois on Nov 9, followed by a public-audience talk on revitalization.</p>
+  </div>	
+	
+ <button class="accordion">   Election victory<br></button>
+ <div class="panel">
+ <p>I have been elected to a three-year term on the executive committee of SSILA, the Society for the Study of Indigenous Languages of the Americas</p>
+  </div>
+	
+<button class="accordion">   Tenure! <br></button>
+ <div class="panel">
+ <p>As of this fall, I'm a tenured associate professor here at KU!</p>
+  </div>
+  
+  <button class="accordion">  Going to LSA/SSILA <br></button>
+ <div class="panel">
+ <p>I will see you in New York this January as I attend SSILA to present on Kiowa locatives, and at LSA to present with Jeff Punske (So Illinois) on games in lingusitics teaching.</p>
+  </div> 
+
+  
+   <button class="accordion">  DEL Grant from the NSF <br></button>
+<div class="panel">
+ <p>
+I have been awarded a grant from the Documenting Endangered Languages program! (<a href ="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1664431&HistoricalAwards=false" target = "_blank">read the grant abstract</a>) The three-year project's goal is to result in a semantic reference grammar of Kiowa, along with papers that result. This kind of grammar is novel and promises to really help document not only Kiowa but other endangered and understudied languages as well.
+</p>
+</div>
+
+
+ <button class="accordion"> <br> DEL Grant in the news <br></button>
+<div class="panel">
+ <p>Read about my grant in the <a href ="http://www.kansan.com/news/university-pnofessor-earns-grant-to-preserve-the-kiowa-language/article_86d89290-8852-11e7-8206-679d872202dd.html" target = "_blank">University Daily Kansan</a>, <a href = "https://today.ku.edu/2017/07/20/federal-grant-help-preserve-endangered-kiowa-language">KU Today</a>, and the <a href = "http://www2.ljworld.com/news/2017/jul/31/ku-linguistics-professor-wins-federal-grant-preser/" target = "_blank">Lawrence Journal-World</a>.   Better yet: Listen to the Public Radio report at <a target = "_blank" href ="http://kcur.org/post/carrying-his-great-grandfathers-work-kansas-professor-helps-keep-their-language-alive#stream/0">KCUR FM</a> or <a target = "_blank" href = "https://kansaspublicradio.org/kpr-news/ku-professor-works-preserve-kiowa-language">Kansas Public Radio</a>!
+</p>
+</div>
+<!--My chapter in <i>Methodologies in Semantic Fieldwork</i> is now available from Oxford University Press.  This magnificent volume couples the latest semantic fieldwork techniques with an impressively broad empirical coverage. <p> <a href = "https://global.oup.com/academic/product/methodologies-in-semantic-fieldwork-9780190212339?cc=us&lang=en&"> Order a copy today </a>(or have your library get on it)!
+//-->
+</div>
+	</div>
+ 
+<div id = "papers"> <span  class = "box">Papers & Projects</span> <span style = "font-size:10pt;">(click to open)</span> <!--<span  class = "box">Papers </span> (Click to open) <br> ( <a href = "bibtex.html
+">bibtex</a> )<!--| <a href = "textcitation.html">text citation</a>)<br> -->
+ 
+	<div class="accordion-section"> Theory-driven language documentation (+typology)</div>
+	
+	
+  
+ <button class="accordion">   Book of Kiowa texts <br></button>
+	<div class="panel">
+  <p style = "font-size:10pt;" Co-authors Daniel Harbour and Laurel Watkins>  
+	  McKenzie, Andrew, Laurel Watkins, &amp; Daniel Harbour. Plains Life in Kiowa: Voices from a Tribe in Transition <i>International Journal of American Linguistics</i> 88 (Suppl. 1). Chicago, IL: University of Chicago Press.
+  <br><br>
+	 This volume of texts for the <i>IJAL</i> series Texts in Indigenous Languages of the Americas offers 18 different texts in the Kiowa language, glossed and translated, which trace the historic journey from the pre-reservation life into the modern Westernized era.  The texts present a uniquely Kiowa perspective on this transition, its ups and downs, and exemplifies the wit, humor, and dedication to memory of Kiowa storytelling. Each text is accompanied by an introduction that situates it in Kiowa history and culture. 
+	
+		<p> <a target = "_blank" href="https://www.journals.uchicago.edu/toc/ijal/2022/88/S1">Publication</a></br>
+		<a target = "_blank" href="Documents/Plains Life in Kiowa preprint.pdf">Pre-print version</a> </p>
+	</p>
+	
+	  
+</div>
+	
+		<button class="accordion" > A Semantic Grammar of Kiowa <br></button>
+<div class="panel">
+  <p style = "font-size:10pt;"> 
+	  
+	  This volume is a theory-driven documentation of the semantics and pragmatics of Kiowa. It will fill in gaps that have emerged in our understanding due to advances in formal semantics over the last few decades.  The volume is organized along the lines of semantic concepts, rather than the forms and structures.  While being driven and founded upon formal concepts, the volume will focus on concepts of meaning, and applying tests for truth-conditions and felicity. This book will be the first document of its kind, focusing on the semantics of a single language, and hopefully will lead to proper semantic typology and offer data for deeper theoretical understanding. It is also intended serve as a model for fieldworkers who are not experts in semantics, so they can apply these tests and discover similar facts about the languages they research.  It is under contract with Oxford University Press.
+	  
+	  <br>  Sample chapters (rough drafts): </br>
+			<ul>
+				<li><a target = "_blank" href = "Documents/SemGram-Degrees.pdf">Degrees and gradability</a></li>
+				<li><a target = "_blank" href = "Documents/SemGram-Modality.pdf">Mood and modality</a></li>
+			</ul>
+	  <br>  <a target = "_blank" href = "Documents/WECOL-2022-McKenzie.pdf">Slides for my plenary talk</a> on this subject at WECOL
+  <br>
+	</p>
+	  
+	
+	
+	</div> 
+
+<button class="accordion"> Grammatical simplexity: Number in Kiowa <br></button> 
+     <div class="panel"> 
+		 
+		  <p style = "font-size:10pt;"> Harbour, Daniel, and Andrew McKenzie. 2022. Grammatical simplexity: Number in Kiowa. In <i><a target = "_blank" href = "https://www.degruyter.com/document/doi/10.1515/9783110622713-020/html">Number in the World's Languages</a></i>. Paolo Acquaviva and Michael Daniel, eds. Berlin/Boston: De Gruyter Mouton. pp 693-728. </p>
+		 
+		 This book chapter describes the intricate system of number in Kiowa, which is semantically simple, but morphologically complex.  We also distinguish verbal number from distributivity and lay out some unusual morphological, semantic, and discourse-level properties of number in Kiowa.
+		 
+		 <p> &bull; <a target="_blank" href="Documents/Harbour-and-McKenzie-2022-Simplexity.pdf">pre-print </a></p>
+		 
+	 
+	</div>
+	
+	<button class="accordion"> Two types of habituals  <br></button>
+	 <div class="panel">
+		 <p style = "font-size:10pt;">McKenzie, Andrew. 2021. Two types of habituals: Kiowa ingredients of a
+modular imperfective. Talk at Sinn und Bedeutung 25. Queen Mary University of London. London, United Kingdom.</p>
+		 
+		<p style = "font-size:10pt;"> Argues that Kiowa has both a durative-style habitual (as proposed by Deo) and pluractional-type habitual (as proposed by Ferreira), suggesting that the imperfective is modular in this respect, as it does not require choosing between them.</p>
+		 
+			<p>	 
+		  &bull; <a target="_blank" href="Documents/McKenzie-Two-types-of-habituals-handout.pdf">handout</a>   &bull; <a target="_blank" href="Documents/McKenzie-Two-types-of-habituals-proceedings-preprint.pdf">proceedings paper preprint draft</a> &bull;<a target="_blank" href="Documents/McKenzie-Kiowa-Habituals.mp4">recording of the talk</a> </p>
+	</div>
+	
+	<button class="accordion">  Sentential prosody and intonation<br></button> 
+     <div class="panel"> 
+		 
+		  <p style = "font-size:10pt;"> Collaboration with Romina Durán. A preliminary investigation Kiowa intonation and prosody. Submitted to IJAL. </p>
+		 
+		 	<p> &bull; <a target="_blank" href="Documents/Kiowa-Prosody-IJAL-0211.pdf">submitted draft (Feb 2022) </a></p>
+		 
+		 <p style = "font-size:10pt;"> Collaboration with Romina Durán. Preliminary investigation of prosody in Kiowa sentences. To be presented at WSCLA 25 in late May 2021. </p>
+		 
+				<p> &bull; <a target="_blank" href="Documents/McKenzie-Duran-Prosody-Kiowa-abstract.pdf">abstract</a></p>
+	</div>
+	
+		<button class="accordion"> The near side and the far side  <br></button>
+	 <div class="panel">
+		   <p style = "font-size:10pt;">The near side and the far side in Kiowa: A matter of perspective. <br> Presented at SSILA 2019. Discusses the way that certain locatives in Kiowa encode perspective. 
+		 </p>
+		 <p>
+		  <a target = "_blank" href ="https://semanticsarchive.net/Archive/zBkNTNjM/McKenzie-NearsideFarsideHandout">Handout</a></p>
+	</div>
+	
+     <button class="accordion">  Topics are made by movement <br></button> 
+     <div class="panel">
+     
+
+     <p style = "font-size: 10pt;"> McKenzie, Andrew. 2015. Deriving topic effects in Kiowa with semantics and pragmatics. Chapter
+in <i>Methodologies in Semantic Fieldwork</i>. M. Ryan Bochnak &amp; Lisa Matthewson (eds). Oxford:
+Oxford University Press. pp 269–286. </p> 	 
+	  <p style = "font-size:10pt;"> Uses ordinary semantic fieldwork techniques to elicit clear judgments that suggest that some types of movement that appear discourse-driven are actually moving to disambiguate between opaque and transparent readings.  It's the fact of movement that signals discourse prominence, not the other way around.</p>
+	<p> <a target = "_blank" href = " Documents/Deriving Topic Effects.pdf">accepted pre-print version</a>  <br> <a target = "_blank" href="https://global.oup.com/academic/product/methodologies-in-semantic-fieldwork-9780190212339?cc=us&lang=en&">purchase volume</a> (or better yet, ask your library to get one!) </p>
+ 	</div>
+       
+	
+			<div class="accordion-section"> Semantics in and out of this world </div>
+
+ <button class="accordion"> Semantics with extraterrestrials <br></button>
+<div class="panel"> <p style = "font-size:10pt;"> Investigating the foundations of meaning in a xenolanguage. In <i>Xenolinguistics: Toward a Science of Extraterrestrial Language</i>. Douglas Vakoch and Jeffrey Punske eds. Oxford University Press. Oxford, UK.  <br>
+ 
+  <br> In this book chapter, I discuss how a linguist might approach doing semantic fieldwork with extraterrestrial consultants.  Yes, you read that right.  Interestingly, this thought experiment allows one to explore the fundamental nature of meaning, the limits to observation, and the role that ontology plays in organizing lingusitic meaning and perhaps thought. 
+	</p>
+	  
+<p>	  <a target =  "_blank" href="Documents/Xenosemantic-Fieldwork.pdf">online version ahead of print</a> - 
+	 
+	</p> 
+    
+ 
+</div>
+
+
+<button class="accordion">  Language development during interstellar travel  <br></button>
+<div class="panel">
+  <p style = "font-size:10pt;" Co-author Jeffrey Punske.> McKenzie, Andrew and Jeffrey Punske. 2020. Language development during interstellar travel <i>Acta Futura</i> 12: 123-132. DOI: <a href= "https://doi.org/10.5281/zenodo.3747353" target = "_blank">10.5281/zenodo.3747353</a> <br>
+  <br>
+	 If we sent a vessel on a multi-generation space journey, what might happen to the language on board? How might it change, especially as the vessel maintained less and less contact with Earth? We are necessarily speculative, but draw inspiration from Earthbound examples of isolated long-distance voyages. This paper contributes to the European Space Agency's Advanced Concepts Team's discussion on issues that may arise during interstellar travel.</p>
+	
+	<b>This project proved highly interesting to the general public; see in News for some write-ups and interviews!</b>
+	
+	<p><a target = "_blank" href="https://www.esa.int/gsp/ACT/acta_futura/issue12/">Published issue 12</a> </p>
+	 
+	<p><a target = "_blank" href="Documents/2019-ESA-Interstellar-BG.pdf">Presentation at ESTEC (slides)</a></p>
+	  
+</div>
+
+<button class="accordion">  Five-Minute Linguist presentation on the OR <br></button>
+<div class="panel"> <p style = "font-size:10pt;"> Ashna Mahadev MD, Austin Bachar MD,
+Andrew McKenzie, &amp; Gary Sutkin MD. 2023. "Take a little off the top here": Ambiguity and vagueness in the operating room. Runner-up, Five-Minute Linguist session. Annual Meeting of the Linguistic Society of America. Denver, CO.<br>
+	
+	 <a  target="_blank" href="Documents/McKenzie-etal-2023-5ML.pdf">slideshow (the videos don't play)</a><br>
+	 <a  target="_blank" href="Documents/thumbnail_Wordcloud.png">word cloud gathered during the talk</a>
+  <br>
+  <br> In this talk we quickly lay out some of the issues with ambiguity in the operating room. We show some neat videos of surgeons in action (not too gory), and highlight just how well people are at filling in gaps in meaning. Sadly, the LSA's video vendor slapped a one-year embargo on the presentations, so you can't watch the video yet.  But you can see the slides (no video, for privacy), and check out the wordcloud taken from attendees during the talk--- impact in real time! </p> <!--I cannot post a pre-print or submitted draft, but here is a very early description which I presented a while back.//-->
+	  
+ 
+    
+ 
+</div>
+	
+	 <button class="accordion">  Semantic ambiguity in the operating room  <br></button>
+<div class="panel"> <p style = "font-size:10pt;"> Liu, Cynthia MD, Andrew McKenzie PhD, and Gary Sutkin MD. 2021. Semantically Ambiguous Language in the Teaching Operating Room. 
+	Online ahead of print, at <i>Journal of Surgical Education</i>. DOI: <a  target="_blank" href="https://doi.org/10.1016/j.jsurg.2021.03.020">10.1016/j.jsurg.2021.03.020</a>
+  <br>
+  <br> This is a collaborative project with <a target = "_blank" href = "https://med.umkc.edu/surgilab/">Surgilab, the surgical innovation lab</a> at the University of Missouri-Kansas City, headed by Dr Gary Sutkin. We are exploring the role that semantic ambiguity plays in causing errors and near-errors in surgery, especially in a pedagogical context. We begin by showing how common ambiguous language is, and how often it causes confusion and delay. </p> <!--I cannot post a pre-print or submitted draft, but here is a very early description which I presented a while back.//-->
+	  
+<p>	  <a target =  "_blank" href="https://doi.org/10.1016/j.jsurg.2021.03.020">online version ahead of print</a> - 
+	<!--<a target = "_blank" href="Documents/Liu-McKenzie-Sutkin-preprint.pdf">Preprint</a>  //-->
+	<a target = "_blank" href="Documents/McKenzie-DeixisOR-0310-Final.pdf">Slides</a> from an early stage
+	</p> 
+    
+ 
+</div>
+
+ 
+	
+
+	
+<div class="accordion-section"> Incorporation </div>
+<!--<span style = "font-size: 8pt; position: relative; top: 3pt; float: right;">&#x25BC;</span>-->
+ 
+ <!--<div class = "panel"> <!-- big section //-->
+	
+<button class="accordion" style = "background-color: #FFABAB;">    WSCLA: Polysynthesis's place in grammar  <br></button>
+<div class="panel">
+  <p style = "font-size:10pt;"> McKenzie, Andrew. 2023. Polysynthesis and the division of labor in grammar. Plenary talk at <a target = "_blank" href="https://wscla2023.mull-lab.org/">WSCLA 2023</a>. McGill University, Montreal, QC. 
+  <br>
+  In this talk I argue that the unspoken semantic content is the key component of understanding what polsynthetic processes are about.  Speakers use polysynthesis to say more while building less. We can organize polysynthetic processes by their semantic effects, and see that they involve the verbal projection doing the work of functional heads like determiners or adpositions, etc. The unspoken meaning is nebulous, which explains a number of key cross-linguistic facts about incorporation.  Nebulosity makes polysynthetic structures easier to build but harder to interpret. The cost is mitigated by cultural and grammatical factors.  Finally, I point out that these semantic processes are common cross-linguistically even in 'non-polysynthetic' phenomena, showing that the foundations of polysynthesis abound in natural language. <p>
+   
+   <p> <a target ="_blank" href="Documents/McKenzie-WSCLA-2023.pdf">Slides from the talk</a></p>
+ 
+</div>
+
+	<button class="accordion"> Incorporation beyond the object : Interpretation and compositionality in polysynthesis<br></button>
+	
+	<div class="panel">
+	 <p style = "font-size:10pt;"> Plenary talk at <a href ="https://sites.google.com/view/wccfl2021/">WCCFL 39</a>, the 39th West Coast Conference on Formal Linguistics, April 10, 2021. Begins with a lovely introduction by Dr. Robert Henderson, U. of Arizona<br>
+  <br>
+	This talk brings together my work on noun and verb incorporation in Kiowa. It argues that to understand the meaning of incorporation, we have to employ some kind of mediating relations to supply the functional meanings that are missing in the visible structure. By including these relations and the heads that introduce them, we open up new ways to understand how incorporation can affect argument structure.</p>
+		
+	<p><a target ="_blank" href = "https://www.youtube.com/watch?v=PK0cpk2bRR4&t=3s">Video of talk (YouTube)</a> -
+		<a href = "Documents/McKenzie-WCCFL-39-slides.pdf">Slides</a> - <a href = "Documents/McKenzie-WCCFL-39-handout.pdf">Handout</a> 
+	</p>	
+	</div>
+	
+<button class="accordion" style = "background-color: #FFABAB;">    Mediating relations and the semantics of noun incorporation  <br></button>
+<div class="panel">
+  <p style = "font-size:10pt;"> McKenzie, Andrew. 2021. Mediating functions and the semantics of noun incorporation. <i>Natural
+Language &amp; Linguistic Theory</i>. DOI: <a target="_blank" href="https://link.springer.com/article/10.1007/s11049-021-09511-4">10.1007/s11049-021-09511-4</a> <br>
+  <br>
+  Resolves two elements of weak compositionality in noun incorporation in one stroke.  NI either involves non-objects (knife+cut) which are quantified over but whose relation to the verb is vague, or objects (meat+cut) whose relation is clear but whose entity argument is not saturated in a satsifactory way.  Looking at Kiowa NI and English synthetic compounds, I show that these issues are both resolved if noun incorporation requires a mediating relation, which is independently needed in many cases. This relation provides a thematic role when required, and binds the entity argument, along with world and event arguments when the meaning requires.  Object incorporation requires a mediating relation above the verb, provided by a derivational or light-verb head not in the inflectional projection.  </p>
+   
+   <p> <a target ="_blank" href="https://link.springer.com/article/10.1007/s11049-021-09511-4">online version (open access)</a></p>
+	 <!--  <a href="https://ling.auf.net/lingbuzz/003860">accepted draft</a><br>//-->
+	   
+	<p><a target ="_blank"  href = "http://www.lingref.com/cpp/wccfl/36/paper3472.pdf">The role of semantics in licensing English synthetic compounds</a> Seed poster, published in the proceedings of WCCFL 36</p>   
+<br>
+<p>Seed talk, presented at Modality across Categories workshop
+ (<a target = "_blank" href = "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtb2RhbGl0eWFjcm9zc2NhdGVnb3JpZXN8Z3g6NDhhNWI5NjAzMmZjZGMzMw" style = "font-size: 10pt;">slides</a> | <a target = "blank" href = "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtb2RhbGl0eWFjcm9zc2NhdGVnb3JpZXN8Z3g6Y2RkZGFjNmM5MjE2ZWU0" style = "font-size: 10pt;">handout</a></p>
+ 
+</div>
+
+<button class="accordion" style = "background-color: #FFABAB;"> Kiowa verb incorporation and types of mediating relations  <br></button>
+<div class="panel">
+
+  <p style = "font-size:10pt;"> Published in the <i>Proceedings of SULA 10</i>. <br>
+	  <br> Explores some of the semantic relations found in verb+verb structures in Kiowa, and consquences for the composition of incorporating structures. 
+  <br>
+	  
+	 </p>
+	
+	<p><a target = "_blank" href ="https://semanticsarchive.net/Archive/TdmMTExN/McKenzie-SULA10-Proceeding.pdf">Accepted pre-print version</a></p>
+	  
+	</div> 
+
+<!--</div><!-- end section of incorporation-->
+ 
+   	<div class="accordion-section"> Switch-reference </div>
+
+  <button class="accordion">   Switch-reference: an annotated bibliography  <br></button>
+<div class="panel">
+  <p style = "font-size:10pt;">McKenzie, Andrew. 2016. Switch-reference. Chapter in <i>Oxford Bibliographies Online, Linguistics</i>. 27 October 2016. DOI:  <a target = "_blank" href = "http://www.oxfordbibliographies.com/view/document/obo-9780199772810/obo-9780199772810-0138.xml">10.1093/OBO/9780199772810-0138</a> <br>
+  <br>
+  Critically annotated bibliography spanning major descriptive and theoretical work on switch-reference. Focuses on different switch-reference areas around the world, and major issues in the theory of switch-reference.
+  </p>
+ <a target = "_blank" href = "http://www.oxfordbibliographies.com/view/document/obo-9780199772810/obo-9780199772810-0138.xml">Get version (library subscription required)</a> &bull; <a target = "_blank" href = "Documents/McKenzie-SR-OxfordBib-preprint.pdf">Get pre-print</a>   <br> &nbsp; 
+ 
+</div>
+    
+        <button class="accordion">  A survey of switch-reference in North America <br></button>
+	 <div class="panel">
+ 	<p style = "font-size:10pt;"> McKenzie, Andrew. 2015. A Survey of Switch-Reference in North America. <i>International Journal of American Linguistics</i> <b>81</b>:3, pp 409–448, plus supplemental material. DOI: <a href="http://www.journals.uchicago.edu/doi/abs/10.1086/681580">10.1086/681580</a>. </p>
+		
+		<p>Offers a new and comprehensive survey of switch-reference in North American languages. It also discusses major descriptive issues concerning switch-reference, and problems with relying on targeted portions of reference grammars without checking other parts. </p>
+	
+    <p><a target = "_blank" href = "http://www.journals.uchicago.edu/doi/abs/10.1086/681580">published version</a> &bull; <a target = "_blank" href = "https://kuscholarworks.ku.edu/bitstream/handle/1808/22152/mckenzie_survey.pdf?sequence=1&isAllowed=y">accepted pre-print version</a></p>
+    
+ 	</div>
+
+ <button class="accordion"> Switch-reference and event cohesion <br></button>
+	 <div class="panel">
+ 	<p style = "font-size:10pt;">
+McKenzie, Andrew. In press. Switch-reference and event cohesion. In <i>Languages and Linguistics of Indigenous North America</i>. Carmen Dagostino, Marianne Mithun, &amp; Keren Rice, eds. Berlin, Germany: De Gruyter Mouton.
+		 </p>
+		<p style = "font-size:10pt;">This handbook chapter introduces the ways that switch-reference indicates various types of clause-linking in North American languages. The volume is expected in 2023.</p>
+		 
+		<p style = "font-size:10pt;"><a target="_blank" href = "Documents/McKenzie-SR-and-EC-preprint.pdf">Accepted draft preprint</a></p>
+</div>
+    
+     <button class="accordion"> Situations and non-canonical switch-reference <br></button>
+	 <div class="panel">
+ 	<p style = "font-size:10pt;"> McKenzie, Andrew. 2012. <i> The Role of Contextual Restriction in Reference-tracking</i>. Ph.D. Dissertation. University of Massachusetts-Amherst. Available at UMass Scholar Works: <a target="_blank" href = "https://scholarworks.umass.edu/open_access_dissertations/585/">https://scholarworks.umass.edu/open_access_dissertations/585/</a></p>
+		 
+			<p style = "font-size:10pt; border-bottom: dotted black 0.2pt; border-right-radius:10pt;"> I examine switch-reference (SR) in Kiowa, and argue that it is sensitive to the topic situation and dependent on the configuration of the clause juncture. With coordination, SR tracks topic situations, while with subordinating clauses that lack topic situations, it tracks subjects. I also show that Finer's classic binding approach cannot work if switch-reference is meaningful, and that Stirling's event-agreement approach does not fit with our understanding of event structure.<br> &nbsp;</p>
+		 
+</div>
+    
+		<button class="accordion">   Switch-reference and Austinian topic situations <br></button>
+   <div class="panel">
+  <!--p style = "font-size:10pt;"> Under revision for the <a href = "http://jos.oxfordjournals.org/" style = "font-size: 10pt; font-weight:medium;"><i>Journal of Semantics</i></a>  
+    //-->
+	   
+ 	<p style = "font-size:10pt;"> Examines switch-reference when it (non-canonically) ignores subjects, arguing that we can explain this if it is tracking the reference of the joined clauses' Austinian topic situations, rather than their subjects.  In doing so, it highlights the role that the utterance context and speaker intent play in shaping reference-tracking.  </p>
+	
+      <p><a target = "_blank" href = "Documents/McKenzie-SR-and-situations.pdf">get draft version</a></p>
+ 	</div>
+
+      
+   	<div class="accordion-section"> Additional projects &amp; collaborations</div>
+<button class="accordion"> 
+    How plurals become singulars and back again <br>
+	</button>
+<div class="panel">
+  <p style="font-size:10pt;"> Bates, Jonah, &amp; Andrew McKenzie. 2021. A plural-to-singular reanalysis cycle. <i>Journal of Historical Syntax</i> <b>5</b>:24 1–16. DOI: <a target = "_blank"  href="https://doi.org/10.18148/hs/2021.v5i16-25.65">10.18148/hs/2021.v5i16-25.65</a>
+	</p>
+	
+	  <p style="font-size:10pt;">Proposes a feature-based model drawing on data from hundreds of languages, which explains how plural pronouns and agreement forms become singulars by feature deletion, and how in some languages a new plural emerges from the addition of a morpheme bearing the plural feature. </p>
+</div>
+
+	<button class="accordion"> 
+    A modal in <em>almost</em>  <br>
+	</button>
+<div class="panel">
+  <p style="font-size:10pt;"> McKenzie, Andrew, and Lydia Newkirk. 2020. Almost at-a-distance. <em>Linguistics &amp; Philosophy</em> <strong>43</strong>, 389–426. Online August 8, 2019. DOI: <a target = "_blank"  href="https://doi.org/10.1007/s10988-019-09275-6">10.1007/s10988-019-09275-6</a><br>
+    <br>
+    We demonstrate that the English adverbial <em>almost</em> requires a modal in addition to scalar proximity. The modal involves the same Non-Interrupting ordering source that Portner finds in the progressive.  If the event and its circumstances allow the event to proceed to completion in normal relevant counterparts to the topic situation, <em>almost</em> can apply `at a distance'.  In cases where that isn't possible, notably in statives, present tense eventives, and cases where the evaluation is based on the result rather than the process, <em>almost</em> requires most of the necessary conditions to be complete.</p>
+  <a target = "_blank" href = "https://link.springer.com/article/10.1007/s10988-019-09275-6">published version (subscription required)</a>
+	<p>
+   <a target = "_blank" href = "https://semanticsarchive.net/Archive/zdhNTRhO/almost-at-a-distance-accepted">accepted pre-print version</a> &nbsp;&bull;&nbsp; <a target = "_blank" href = "http://www.lingref.com/cpp/wccfl/33/paper3249.pdf">seed paper</a> from WCCFL 33
+   </p>
+</div>
+
+<button class="accordion"> 
+Light verbs in Uyghur and Uzbek<br>
+	<!--Latent homomorphism &amp; content satisfaction: The double life of Turkic auxiliary <em>–(I)p bol–</em> <br> //-->
+</button>
+<div class="panel">
+  <p style = "font-size:10pt;"> McKenzie, Andrew, G&uuml;lnar Eziz, and Travis Major. 2018. Latent homomorphism &amp; content satisfaction: The double life of Turkic auxiliary <em>–(I)p bol–</em> <i>Glossa: A journal of general linguistics</i>.
+<b>3</b>:1. Article no. 47, pp 1–34. DOI: <a href="https://www.glossa-journal.org/articles/10.5334/gjgl.422/">10.5334/gjgl.422</a> <br>	  
+	  
+  <br>
+  Employs semantic fieldwork techniques to argue that the auxiliary construction <i>-(I)p bol-</i> in the Turkic language Uyghur (and <i>-(i)b bo'l-</i> in Uzbek) is actually two constructions: The first asserts that the event relation is homomorphic, which leads to a sense of 'full completion.' The second, previously unattested in the literature, conventionally implicates that the event relation satisifies the content of some known content-bearing object. This paper promises a new line of research and offers suggestions for deep discoveries concerning Turkic auxiliaries and auxiliaries cross-linguistically.</p>
+  
+	<p><a target = "_blank" href = "https://www.glossa-journal.org/articles/10.5334/gjgl.422/">published version (open access)</a> &nbsp;&bull;&nbsp;
+    <a target = "_blank" href = "http://linguistics.berkeley.edu/bls/previous_proceedings/bls41.pdf">seed paper</a> from BLS 41</p> 
+</div>
+
+ 
+	<button class="accordion"> 
+    How situations limit the kinds of evidentiality<br>
+	</button>
+<div class="panel">
+  <p style="font-size:10pt;">	 McKenzie, Andrew. 2017. On the limited set of evidentiality types. Chapter in <i>The Leader of the
+Pack: A Festschrift in Honor of Margaret Speas</i>. Rodica Ivan (ed). University of Massachusetts
+Occasional Papers in Linguistics, vol. 40. Amherst, MA: GLSA.</p>
+	
+	  <p style="font-size:10pt;">Evidentials are curiously limited as to what types of evidence they mark. I propose that this limit stems from how situation semantics affects language acquisition. Essentially, the kinds of situations that lead to lexical acquisition in infants and children are precisely the kinds that turn up in evidential systems. This suggests a link between the language acquisition device and the grammar itself.</p>
+  
+  <p><a target = "_blank" href = "Documents/McKenzie-limited-evidentials.pdf">pre-print draft</a> </p>
+
+</div>
+
+<div class="accordion-section"> Teaching linguistics </div>
+
+<button class="accordion"> 
+	<i>f(x)</i>: A Euro-style game for the &lambda;-calculus <br>
+</button>
+	 <div class="panel">
+  <p style = "font-size:10pt;"> McKenzie, Andrew. In print. A Euro-style game for the &lambda;-calculus.
+	  In <i>Teaching linguistics with games</i>. Vita Kogan, ed. Cascadilla Press Linguistics Titles. To appear in 2023. 
+		 </p>
+		 
+		 <p><a target = "_blank" href = "/Documents/McKenzie-Eurogame-Revision.pdf">pre-print</a></p>
+		 
+		 <p style = "font-size:10pt;"> In this book chapter, I discuss the game <i>f(x)</i>, which I made to help semantics students master the &lambda;-calculus.The chapter details the motivations behind the game, how it is played, and how I made it.  The game was designed to thrive off the properties of the popular 'Euro-game' genre that lend a game more suitable to classroom participation.    </p> 
+		
+		</div>
+
+ 
+
+<button class="accordion"> 
+	 Video Lecturelets: A Course in Semantics<br>
+</button>
+	 <div class="panel">
+		 
+		 <br>
+		 
+		 <a href = "https://www.youtube.com/@andrewmckenzie2075/videos">My YouTube Channel</a><br>
+		 <a href = "http://people.ku.edu/~a326m085/lecturelets-m-2024.html">Lecturelet page</a>
+		 
+		 <p style = "font-size:10pt;"> These are a set of videos that I made when I flipped my (formal) semantics course a number of years back. I converted the lectures into lecturelets and let the playback function serve to slow things down for students.  Apologies for the low quality on some of them; it's on my to-do list to replace some. Plus, some of them have a serious goof or two, and some have exciting new sources to put up. They are organized into sections, which the course syllabus puts into a decent order.  </p>
+			 
+			 <ul style = "font-size: 10pt;">
+				 	<li>M (the nature of meaning) </li>
+				 	<li>F (formal fundamentals)</li>
+				 <li> Q (quantification) </li>
+				 <li>V (verbal + event semantics)</li>
+				 <li>I (syntax-semantics interface)</li>
+		 </ul>
+		 
+		  <p style = "font-size:10pt;">
+		 The course can be roughly summed up as Heim &amp; Kratzer plus events. It has syntax as a prerequisite, so it ties in tightly to the syntactic structure and interface.  Occasionally we'll dip our toes into intensional or modal semantics, if the students seem to be interested. 
+		 </p> 
+		
+		</div>
+
+<button class="accordion"> 
+Using games to teach linguistics <br>
+</button>
+	 <div class="panel">
+  <p style = "font-size:10pt;"> McKenzie, Andrew &amp; Jeffrey Punske. 2019. Gaming as pedagogy in the linguistics classroom.
+	  In <i>Proceedings of the Linguistics Society of America</i>. Vol. 4. p. 39:1–8. Available at: <a target = "_blank" href = "https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4547">https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4547</a>.  DOI: <a target = "_blank"  href="https://doi.org/10.3765/plsa.v4i1.4547">10.3765/plsa.v4i1.4547</a>
+	  
+		 </p>
+		 
+		<p style = "font-size:10pt;"> We explore how content-driven games may be utilized to enhance linguistics pedagogy in the classroom. We explore three games created by the authors for in-class play. The games involve semantics: Eventuality (about aspect/Aktionsart), f(x) (lambda-calculus); and syntax: Parameters. We discuss the major skills developed by the games and the best practices for designing games for in-class use. We focus on four elements in the talk: player interaction, randomization, process training, and entertainment.</p> 
+		
+		</div>
+
+
+		
+</div>
+  
+<div style="height: 100px;">&nbsp;</div>
+</div><!--end of papers-->
+ 
+	
+ <div id = "teaching" style = "position: absolute; left: 900px; top: 350px;width: 500px;">  <span class = "box">Courses I often teach&nbsp;</span><br>
+ 
+   
+ <p>  
+ <br> <a href = "Documents/107-19-FA-Syllabus.pdf" target = "_blank">Ling 107 - Intro to Linguistics (Honors)</a><br>
+  <a href = "Documents/NAILS-FA20-Syllabus-Oct2.pdf" target = "_blank">Ling 447/747 - North American Indian Languages</a><br>
+    <a href = "Documents/331-18-SP-Syllabus.pdf" target = "_blank">Ling 531/731 - Semantics</a><br>
+ &nbsp;&nbsp;&nbsp;<a href = "http://people.ku.edu/~a326m085/lecturelets-m-2024.html" target = "_blank" style = "font-size:10pt">click here to view</a> <span style = "font-size: 10pt;">video lecturelets</span><br>
+  <a href = "Documents/441-18-SP-Syllabus.pdf" target = "_blank">Ling 441/741 - Field Methods</a><br>   
+  <a href = "Documents/575-17-FA-Syllabus.pdf" target = "_blank">Ling 575 - Structures of Kiowa</a></p>
+  
+  
+<!--  <p> (spr 2017)  
+ <br>  Ling 331/731 - Semantics <br>
+ Ling 441/741 - Field Methods </p>    
+  
+ <p> (fall 2016)  
+ <br> Ling 107 - Intro to Linguistics (Honors)<br>
+  Ling 447/747 - N. Amer. Indian Languages   
+ //--> 
+ 
+ </div>
+ 
+ 
+
+ 
+<script><!-- for the sections' accordion effect-->
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var panel = this.nextElementSibling;
+        if (panel.style.display === "block") {
+            panel.style.display = "none";
+        } else {
+            panel.style.display = "block";
+        }
+    });
+}
+</script>
+
+
+ 
+ <div class = "extra" style="position: absolute; left: 900px; top: 550px; width: 500px;">
+ <div class = "box">Extra things</div>
+ 
+ 
+  <p><a href ="https://www.ctan.org/pkg/ling-macros?lang=en" target = "_blank">ling-macros</a> LaTeX package for linguistics (@CTAN!) <br>
+  <a href = "Documents/jayhawks.zip" target = "_blank">jayhawks</a> LaTeX package (for KU colors) <br>  
+<!-- <a href = "">Kiowa stories</a> (coming soon) <br> //--> 
+	  <br> <a target = "_blank"  href =  "Documents/McKenzie-Andrew-CV-mostrecent.pdf" style = "font-size: 12pt;"> Curriculum vitae</a> <span style = "font-size:10pt;">(April 2023)</span>
+ </p>
+ </div> 
+
+
+
+
+
+</body>
+</html>

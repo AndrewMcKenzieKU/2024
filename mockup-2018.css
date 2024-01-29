@@ -1,0 +1,366 @@
+@charset "UTF-8";
+/* CSS Document */
+/* CSS File for Index page */
+/* Andrew McKenzie's academic portal */
+/* http://people.ku.edu/~a326m085 */
+/* last update : August 6, 2013 --- added font src specifications */
+/* last update: August 7, 2013 --- added IE specific stuff */
+/* last update : February 7, 2018 --- put accordion box for papers */
+/* last update : October 22, 2019 --- pushed teaching downwards */
+/* List of elements defined herein
+#face = box holding my picture
+div.leftbox = inside a box, the left column 
+div.rightbox = inside a box, the right column
+.box = specifies default font for boxes
+body = specifies defaults for document
+#special =
+#teaching =
+#find = 
+# news - 
+.extra : the box with "EXtra stuff"
+# extra : for extra boxes (no particular place)
+.papers =
+.paperbox =
+.profile
+.accordion = accordion box
+.super-accordion = section accordion box
+.active = hovered-over accordion box
+.panel = phidden part of accordion box
+*/
+/* header */
+
+ 
+
+#face { position: absolute; top: 25px;  
+		width: 300px;
+	text-align: center;
+	background-color: #FCE7AC;
+	border: solid black thin;
+	border-radius:8pt;
+	border-top-right-radius:30pt;
+ border-top-left-radius:30pt;
+	
+height: 640px;}
+
+
+#face a {color : #4E4848; 
+		
+}
+
+#face a:hover {background-color: #4E4848; color: #eeddcd;}
+/*subsections */
+div.leftbox { position: relative; left: 0px; 
+-moz-border-radius: 6px;
+-webkit-border-radius: 6px; 
+width: 120px; 
+/* background-color: #ffaab5; */
+}
+div.rightbox { position: relative; top: -19px; right:2px;
+float:right; 
+text-align: left;
+margin-left: 6em; 
+margin-top: 0px;
+padding: 0ex;
+-moz-border-radius: 6px;
+-webkit-border-radius: 6px; 
+width: 200px; 
+/* background-color: #cceeaa; */
+}
+/* font embedding */
+
+@font-face {
+font-family: optima, Tahoma, Geneva, sans-serif;
+src: url('fonts/optima.eot?#iefix') format('embedded-opentype'), 
+src: url('fonts/optima.woff') format('woff'), 
+url('fonts/optima.ttf') format('truetype'), 
+url('fonts/optima.svg#svgFontName') format('svg'); 
+}
+
+.box { font-size: 18pt;
+font-weight: bold;
+color: #111111;
+}
+.emph { font-weight: bold; 
+padding-right: 2ex;}
+
+/* main body text */
+body { font-family: optima;
+/* background-color: #000044;
+border-radius:10px; */
+}
+
+p { font-family: optima;
+}
+a { /* color: #0022B4; old blue color*/
+	color: #4E4848;
+text-decoration: none; 
+font-weight: bold;
+/*color: #90234f;*/ /*old red color */
+}
+
+a:hover {background-color: #4E4848; color: white;}
+
+/* main body */
+
+#special { position: absolute;
+left: 360px;
+top: 40px;
+width: 320px;
+text-align: left;
+border: 3px solid #030303;
+padding: 13px;
+background: #ffffcc; 
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+/*width: 100px; */
+}
+
+#teaching { 
+width: 320px;
+text-align: left;
+padding: 13px;
+/*background: #DAD6CB;*/
+  border: 0px solid #030303;  
+-moz-border-radius: 7px;
+-webkit-border-radius: 7px;
+/* width: 100px; */
+}
+
+.extra { 
+
+width: 320px;
+text-align: left;
+background: #fff; 
+/* border: 3px solid #030303;*/
+padding: 13px;
+-moz-border-radius: 10px;
+-webkit-bordenr-radius: 10px;
+/*width: 100px; */
+}
+
+
+
+#find { position: absolute;
+left: 50px;
+top: 580px;
+width: 300px;
+text-align: center;
+padding: 13px;
+/* border: 3px solid #030303;
+background: #bbaaff;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px; */
+/*width: 100px; */
+}
+
+#news { position: absolute;
+position: absolute; left: 900px; top: 38px; width: 300px; height: 293px;
+overflow: scroll; background: #fff; margin:0 5px 5px 0; float: left;
+/*padding-left: 20px;
+padding-right: 20px;*/
+padding: 13px;
+border: 0px solid #030303;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px; 
+ font-size: 10pt; 
+/*width: 100px; */
+}
+
+
+#papers{ position: absolute;
+left: 360px;
+top: 38px;
+width: 520px;
+height: 100%; 
+overflow: scroll; 
+	background-color:transparent;
+/* height: 500px;*/
+/*clip: rect(0px, 360px, 360px, 0px);*/
+/* overflow: scroll;*/
+text-align: left;
+border: 0px solid #030303;
+padding: 13px;
+/* background: #aaffaa; */
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+/*width: 100px; */
+}
+.paperbox { width: 450px; 
+text-align: justify; 
+margin-top: 10px;
+/*outline: 2px dotted red; */
+/* border: 1.4px dotted black; */
+border-radius:10px;
+/* -moz-border-radius: 10px;
+-webkit-border-radius: 10px; */
+/* background: #80aa80;*/
+}
+.paperbox a { font-size: 14pt;
+}
+/* index profile picture */
+.profile { width: 260px; 
+/*float: right;*/
+margin: 0px;
+	align: center;
+border: 0px solid black;
+-moz-border-radius: 8px;
+-webkit-border-radius: 8px;
+/* border-bottom: 2px solid black; */
+}
+/* general lettering */
+
+img {   clip-path: circle(50%);
+max-width: 210px;
+ max-height: 280px;
+}
+
+
+html[data-useragent*='MSIE 10.0'] p { font-family: Corbel;
+}
+
+
+/* attempt to make an accordion page */
+
+/* Style the buttons that are used to open and close the accordion panel */
+
+.accordion {
+
+    /*background-color: #eee;  */
+	background-color: white;
+    color: #444;
+    cursor: pointer;
+    padding-left: 12px;
+	padding-right: 12px;
+	padding-bottom: 2px;
+	padding-top: 2pt;
+	margin-top: 0pt;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 1.0s;
+	 font-family: optima;
+	 font-size: 11pt;
+	border-bottom-color: dimgray;
+	border-bottom-left-radius: 10pt;
+	border-bottom-right-radius: 10pt;
+	border-bottom-style: dotted;
+	border-bottom-width: 1pt;
+	-moz-background-clip: padding;
+-webkit-background-clip: padding-box;
+background-clip: padding-box;
+}
+
+.accordion-section {
+
+   /* background-color: #540889; color: #C1BBBB; */
+     background-color: #4E4848; 
+	color: #eee;
+    cursor: pointer;
+    padding-left: 12px;
+	padding-right: 12px;
+	padding-bottom: 2px;
+	padding-top: 2pt;
+	margin-top: 10pt;
+	margin-left: 10%;
+	margin-bottom: 5pt;
+
+    width: 75%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 2.4s;
+	 font-family: optima;
+	 font-size: 12pt;
+	border-radius: 10pt;
+	 
+}
+
+#accordion-section {
+
+   /* background-color: #540889; color: #C1BBBB; */
+     background-color: #4E4848; 
+	color: #eee;
+    cursor: pointer;
+    padding-left: 12px;
+	padding-right: 12px;
+	padding-bottom: 2px;
+	padding-top: 2pt;
+	margin-top: 10pt;
+	margin-left: 10%;
+	margin-bottom: 5pt;
+
+    width: 75%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 2.4s;
+	 font-family: optima;
+	 font-size: 12pt;
+	border-radius: 10pt;
+	 
+}
+
+
+ 
+
+#news .accordion { background-color: #ffc82d; border-radius: 0pt; border-top-right-radius: 15px; border-top-left-radius: 15px;
+}
+
+#oldnews .accordion { color:black; background-color: #FCE7AC; opacity:0.5; border-color: #FCE7AC;border-radius: 0pt;
+}
+ 
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .accordion:hover {
+    background-color: #aaa;/*#DAD6CB; */
+	color: #fff;
+}
+ 
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .accordion-section:hover {
+    background-color: #aaa;/*#DAD6CB; */
+	color: #fff;
+}
+ 
+ /* Style the section accordion panel. Note: hidden by default */
+.sectionpanel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+}
+
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+}
+
+
+
+
+
+ <script>
+<!-- for the sections' accordion effect-->
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var panel = this.nextElementSibling;
+        if (panel.style.display === "block") {
+            panel.style.display = "none";
+        } else {
+            panel.style.display = "block";
+        }
+    });
+}
+ <!-- for the sections' accordion effect-->
+
+ 
+</script>
